@@ -1,0 +1,23 @@
+{
+  "name": "sklep-node",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "scripts": {
+    "start": "node ./server/app"
+  },
+  "dependencies": {
+    "bcrypt": "1.0.3",
+    "body-parser": "~1.18.2",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "8.1.0",
+    "mongoose": "4.13.5",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5",
+    "socket.io": "2.0.4",
+    "socketio": "1.0.0"
+  }
+}
