@@ -1,0 +1,3 @@
+# meanshop-api
+Node.js API server for MeanShop project.
+See [MeanShop](https://github.com/thirteendollars/MeanShop) for more...
